@@ -1,0 +1,15 @@
+2023-08-06 08:58:02.549975 - Initialized conversion of CBT999
+2023-08-06 08:58:02.637820 - Received CBT.V505.FILE999.PDS from FILE999.XMI 
+2023-08-06 08:58:02.640576 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE999.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:58:02.641682 - Found $COPYRTE.txt (text/plain) in CBT.V505.FILE999.PDS, moved to PDS/$COPYRTE
+2023-08-06 08:58:02.642687 - Found #NOTE.txt (text/plain) in CBT.V505.FILE999.PDS, moved to PDS/#NOTE
+2023-08-06 08:58:02.643736 - Found #README.txt (text/plain) in CBT.V505.FILE999.PDS, moved to PDS/#README
+2023-08-06 08:58:02.644991 - Found #RELEASE.txt (text/plain) in CBT.V505.FILE999.PDS, moved to PDS/#RELEASE
+2023-08-06 08:58:02.646089 - Found #USAGE.txt (text/plain) in CBT.V505.FILE999.PDS, moved to PDS/#USAGE
+2023-08-06 08:58:02.647068 - Found @FILE999.txt (text/plain) in CBT.V505.FILE999.PDS, moved to PDS/@FILE999
+2023-08-06 08:58:02.647967 - Found @INSTALL.txt (text/plain) in CBT.V505.FILE999.PDS, moved to PDS/@INSTALL
+2023-08-06 08:58:02.684125 - Found @LOAD.xmi (application/xmit) in CBT.V505.FILE999.PDS
+2023-08-06 08:58:02.697398   - Received RECFM=U data, stored XMIT file as CBT999/@LOAD.xmi
+2023-08-06 08:58:02.698566 - Found EXAMP01.txt (text/plain) in CBT.V505.FILE999.PDS, moved to PDS/EXAMP01
+2023-08-06 08:58:02.699564 - Found EXAMP02.txt (text/plain) in CBT.V505.FILE999.PDS, moved to PDS/EXAMP02
+2023-08-06 08:58:02.700506 - Found INST01.jcl (text/plain) in CBT.V505.FILE999.PDS, moved to PDS/INST01
